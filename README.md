@@ -29,7 +29,7 @@ an n x n square such that all rows, columns and both diagonals sum to the same n
     
 2. IntelliJ IDEA
     1. Open the IntelliJ IDEA IDE, and click File -> Open.
-    2. Select the Rabbits-and-Foxes folder that was just created and click Open.
+    2. Select the MagicSquare folder that was just created and click Open.
     
 ##### Additional Tools
 
