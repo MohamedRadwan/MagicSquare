@@ -7,6 +7,9 @@ A magic square is a puzzle which consists in arranging numbers 1 to n
 2 (where n >= 3) in
 an n x n square such that all rows, columns and both diagonals sum to the same number. 
 
+<img src="board.png" alt="Board">
+<img src="winningBoard.png" alt="Winning Board">
+
 
 ## Development
 
